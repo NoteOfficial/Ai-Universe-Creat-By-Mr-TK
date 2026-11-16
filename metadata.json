@@ -1,0 +1,6 @@
+{
+  "name": "AI UNIVERSE",
+  "description": "One Universe. Unlimited AI Possibilities. Native Android hub for 29+ verified AI websites, isolated multi-workspaces, BYOK API AI chat, universal file & project managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

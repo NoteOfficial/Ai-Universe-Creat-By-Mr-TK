@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AI UNIVERSE</string>
+    <string name="app_tagline">One Universe. Unlimited AI Possibilities.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_arena">Arena AI</string>
+    <string name="nav_v0">v0.dev</string>
+    <string name="nav_studio">Google Studio</string>
+    <string name="nav_profile">Profile</string>
+    <string name="cd_app_logo">AI UNIVERSE Logo</string>
+    <string name="cd_dev_avatar">Mr TK Developer Profile Photo</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_copy_url">Copy current URL</string>
+    <string name="cd_refresh_workspace">Refresh current workspace</string>
+    <string name="cd_more_options">More workspace options</string>
+</resources>
